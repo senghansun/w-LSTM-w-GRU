@@ -2,8 +2,6 @@
 
 ### Combining Moving Average and Deep Learning Methods for Better Forecasting
 
-Various time series forecasting methods have been introduced in the literature. The main goal is to predict future values from known historical data. In this study, we propose a new method of time series forecasting using two well-known Deep Learning methods, Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU), combine with Weighted Moving Average (WMA) method. We then prepare two scenarios, one for the original LSTM and GRU implementation and another for the proposed methods (w-LSTM and w-GRU) implementation. Based on experimental results on two types of real-world import values dataset, the proposed w-LSTM and w-GRU methods got lower average values of 1143.242, 999.028, and 0.155 for Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE) respectively than the ones from original LSTM and GRU implementation. Hence, the proposed methods have better prediction results than the original version of the Deep Learning methods applied in the dataset.
-
 This repository contains all the project codes, revision history, and data samples used in the project.
 We welcome any comments, suggestions, and questions which can be addressed to the email provided below.
 
